@@ -96,6 +96,7 @@ TRANSLATIONS = {
     "Incomplete": "未完成",
     "Misc": "杂项",
     "Audio": "音频",
+    "Video":"视频",
 
     # ===== 主窗口 - 列标题 =====
     "Status": "状态",
